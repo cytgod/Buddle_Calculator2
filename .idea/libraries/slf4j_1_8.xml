@@ -1,0 +1,38 @@
+<component name="libraryTable">
+  <library name="slf4j-1.8">
+    <CLASSES>
+      <root url="file://$PROJECT_DIR$/../java培训/slf4j-1.8.0-beta2" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="file://$PROJECT_DIR$/../java培训/slf4j-1.8.0-beta2/site/apidocs" />
+      <root url="file://$PROJECT_DIR$/../java培训/slf4j-1.8.0-beta2/site/testapidocs" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="file://$PROJECT_DIR$/../java培训/slf4j-1.8.0-beta2/integration/src/test/java" />
+      <root url="file://$PROJECT_DIR$/../java培训/slf4j-1.8.0-beta2/jcl-over-slf4j/src/main/java" />
+      <root url="file://$PROJECT_DIR$/../java培训/slf4j-1.8.0-beta2/jcl-over-slf4j/src/test/java" />
+      <root url="file://$PROJECT_DIR$/../java培训/slf4j-1.8.0-beta2/jul-to-slf4j/src/main/java" />
+      <root url="file://$PROJECT_DIR$/../java培训/slf4j-1.8.0-beta2/jul-to-slf4j/src/test/java" />
+      <root url="file://$PROJECT_DIR$/../java培训/slf4j-1.8.0-beta2/log4j-over-slf4j/src/main/java" />
+      <root url="file://$PROJECT_DIR$/../java培训/slf4j-1.8.0-beta2/log4j-over-slf4j/src/test/java" />
+      <root url="file://$PROJECT_DIR$/../java培训/slf4j-1.8.0-beta2/osgi-over-slf4j/src/main/java" />
+      <root url="file://$PROJECT_DIR$/../java培训/slf4j-1.8.0-beta2/slf4j-api/src/main/java" />
+      <root url="file://$PROJECT_DIR$/../java培训/slf4j-1.8.0-beta2/slf4j-api/src/test/java" />
+      <root url="file://$PROJECT_DIR$/../java培训/slf4j-1.8.0-beta2/slf4j-ext/src/main/java" />
+      <root url="file://$PROJECT_DIR$/../java培训/slf4j-1.8.0-beta2/slf4j-ext/src/test/java" />
+      <root url="file://$PROJECT_DIR$/../java培训/slf4j-1.8.0-beta2/slf4j-jdk14/src/main/java" />
+      <root url="file://$PROJECT_DIR$/../java培训/slf4j-1.8.0-beta2/slf4j-jdk14/src/test/java" />
+      <root url="file://$PROJECT_DIR$/../java培训/slf4j-1.8.0-beta2/slf4j-log4j12/src/main/java" />
+      <root url="file://$PROJECT_DIR$/../java培训/slf4j-1.8.0-beta2/slf4j-log4j12/src/test/java" />
+      <root url="file://$PROJECT_DIR$/../java培训/slf4j-1.8.0-beta2/slf4j-migrator/src/main/java" />
+      <root url="file://$PROJECT_DIR$/../java培训/slf4j-1.8.0-beta2/slf4j-migrator/src/test/java" />
+      <root url="file://$PROJECT_DIR$/../java培训/slf4j-1.8.0-beta2/slf4j-nop/src/main/java" />
+      <root url="file://$PROJECT_DIR$/../java培训/slf4j-1.8.0-beta2/slf4j-nop/src/test/java" />
+      <root url="file://$PROJECT_DIR$/../java培训/slf4j-1.8.0-beta2/slf4j-simple/src/main/java" />
+      <root url="file://$PROJECT_DIR$/../java培训/slf4j-1.8.0-beta2/slf4j-simple/src/test/java" />
+      <root url="file://$PROJECT_DIR$/../java培训/slf4j-1.8.0-beta2" />
+    </SOURCES>
+    <jarDirectory url="file://$PROJECT_DIR$/../java培训/slf4j-1.8.0-beta2" recursive="false" />
+    <jarDirectory url="file://$PROJECT_DIR$/../java培训/slf4j-1.8.0-beta2" recursive="false" type="SOURCES" />
+  </library>
+</component>

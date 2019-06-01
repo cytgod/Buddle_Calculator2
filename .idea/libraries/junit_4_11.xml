@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="junit-4.11">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../ajava学习/JUnit4测试包/junit-4.11.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../ajava学习/JUnit4测试包/junit-4.7.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

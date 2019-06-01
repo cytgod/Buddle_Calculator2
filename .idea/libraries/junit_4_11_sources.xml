@@ -1,0 +1,14 @@
+<component name="libraryTable">
+  <library name="junit-4.11-sources">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../ajava学习/JUnit4测试包/junit-4.11.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../ajava学习/JUnit4测试包/junit-4.7.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../ajava学习/JUnit4测试包/junit-4.8.2.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$PROJECT_DIR$/../ajava学习/JUnit4测试包/junit-4.11-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../ajava学习/JUnit4测试包/junit-4.7-src.jar!/" />
+    </SOURCES>
+  </library>
+</component>
