@@ -1,13 +1,9 @@
 package model;
 
-import model.Bundles;
-import model.LineItem;
-
-
 import java.util.HashMap;
 
 public class FilledLineItem {
-    private LineItem li;
+    private final LineItem li;
 
     private final HashMap<Integer, Integer> hm;
 
@@ -25,7 +21,7 @@ public class FilledLineItem {
         return money;
     }
 
-    public String getFilledItem() {
+  String getFilledItem() {
         double money = totalMoney();
         String filledItem = li.toString() + " " + li.getMediaType().getBundles().get(0).getCurrency() + money + "\n";
         for (Bundles e : li.getMediaType().getBundles()

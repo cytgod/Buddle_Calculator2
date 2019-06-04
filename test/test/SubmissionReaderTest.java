@@ -11,7 +11,7 @@ public class SubmissionReaderTest {
     private SubmissionReader sr;
 
     @Before
-    public void setUp() throws Exception {
+    public void setUp() {
 
 
         sr = new SubmissionReader();

@@ -1,8 +1,5 @@
 package model;
 
-
-import model.FilledLineItem;
-
 import java.util.List;
 
 public class FilledOrder {

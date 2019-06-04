@@ -13,12 +13,11 @@ import static org.junit.Assert.*;
 
 @RunWith(JUnit4.class)
 public class BundlesReaderTest {
-    private BundlesReader br;
 
 
     @Before
     public void setUp()  {
-        br = new BundlesReader();
+        BundlesReader br = new BundlesReader();
     }
 
     @Test
@@ -27,7 +26,7 @@ public class BundlesReaderTest {
         List<Bundles> b = new ArrayList<>();
         b.add(new Bundles(4,"$",3543.21));
         b.add(new Bundles(7,"$",3534.1));
-        assertEquals(b.toString(), br.parseBundles(a).toString());
+        assertEquals(b.toString(), BundlesReader.parseBundles(a).toString());
     }
 
 

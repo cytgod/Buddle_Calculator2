@@ -19,16 +19,16 @@ public class Bundles {
         return num;
     }
 
-    public String getCurrency() {
+     String getCurrency() {
         return currency;
     }
 
-    public double getPrice() {
+     double getPrice() {
         return price;
     }
 
 
-    public int equals(Bundles other) {
+     int equals(Bundles other) {
         if (this.getPrice() == other.getPrice() && this.getCurrency().equals(other.getCurrency()) && this.getNum() == other.getNum())
             return 1;
         else

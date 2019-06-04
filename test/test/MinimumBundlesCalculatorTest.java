@@ -11,7 +11,7 @@ import static org.junit.Assert.*;
 @RunWith(JUnit4.class)
 public class MinimumBundlesCalculatorTest {
     private MinimumBundlesCalculator cal;
-    private Integer[] a = {9, 5, 3};
+    private final Integer[] a = {9, 5, 3};
 
     @Before
     public void setup() {
