@@ -1,21 +1,16 @@
 package model;
 
-import java.util.ArrayList;
+import java.util.List;
 
 public class Order {
-    private ArrayList<LineItem> order;
+    private List<LineItem> order;
 
-    public Order(ArrayList<LineItem> order) {
+    public Order(List<LineItem> order) {
         this.order = order;
     }
 
-    public ArrayList<LineItem> getOrder() {
+    public List<LineItem> getOrder() {
         return order;
     }
-
-    public void setOrder(ArrayList<LineItem> order) {
-        this.order = order;
-    }
-
 
 }
